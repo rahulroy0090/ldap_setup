@@ -1,6 +1,7 @@
 <div align="center">
  index 
 </div>
+
 - [What is ldap server](#What-is-ldap-server)
 
 - [Ldap Operation types](#ldap-operation-types)
